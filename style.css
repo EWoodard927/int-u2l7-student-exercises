@@ -13,8 +13,8 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
-    color: #eb2626;
+    background-color: #fff1bb;
+    color: #a20b0b;
 }
 
 
@@ -29,4 +29,8 @@ body {
     border-radius: 30px;
     font-family: 'Italianno', cursive;
     font-size: 90px;
+}
+
+.buttons {
+    font-size: 25;
 }
